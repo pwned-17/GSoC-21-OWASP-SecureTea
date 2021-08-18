@@ -9,7 +9,7 @@
     - [Work done](#work-done)
     - [Over Timeline](#timeline)
 
-- [Screenshots screenscasts and tutorial videos](#screenshots-screenscasts-and-tutorial-videos)
+- [Screenshots screenscasts and tutorial videos](#Screenshots-screenscasts-and-tutorial-videos)
 
 ## Overview
 
@@ -145,3 +145,12 @@ The Entire Flow of Request <br>
 |15.08.2021     |PR       |Merged|[#308](https://github.com/OWASP/SecureTea-Project/pull/308) |WAF Log Gennerator                                                                                  |
 
 
+
+## Screenshots screenscasts and tutorial videos
+
+**WAF CLI and GUI**
+![WAF-CLI](/img/waf-cli.gif)
+![WAF-GUI](/img/waf-gui.gif)
+
+**WAF in Action**
+![Working-WAF](/img/waf-working.gif)
