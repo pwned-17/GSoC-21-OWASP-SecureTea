@@ -88,7 +88,7 @@ The Entire Flow of Request <br>
      - [Fix CI/CD Build Error ](https://github.com/OWASP/SecureTea-Project/pull/278/commits/40aa8e4c6bc5bf1ff16ca9ab08aa7bb9211f75d3)
    
      
-- [WAF Server/Listener ](https://github.com/OWASP/SecureTea-Project/pull/278):
+- [WAF Server/Listener ](https://github.com/OWASP/SecureTea-Project/pull/281):
     - [Implemented WAF server for listening to incoming traffic](https://github.com/OWASP/SecureTea-Project/pull/281/commits/f10e333e99abca3a65e81176a1c33f6c940b9961)
     - [Code Refactor](https://github.com/OWASP/SecureTea-Project/pull/281/commits/439b551e0c160c94abbbf32e4cfebc7611f3ffb8)
     
@@ -101,7 +101,7 @@ The Entire Flow of Request <br>
     - Classifier was implemented.
     
     
-- [Model Improvement of WAF](https://github.com/OWASP/SecureTea-Project/pull/290)
+- [Model Improvement of WAF and Integration](https://github.com/OWASP/SecureTea-Project/pull/290)
    <br>
    Very important pull request as it had the first improved model , integrations to secureTea , bug fixes etc.
     - [Adding N-gram based tokenizer for the ML Model](https://github.com/OWASP/SecureTea-Project/pull/290/commits/b5c9debc214e74331c4e5e77bf94305b900e14e3)
@@ -129,7 +129,19 @@ The Entire Flow of Request <br>
        <br>
      - [Adding Log Generator for WAF](https://github.com/OWASP/SecureTea-Project/pull/308/commits/513fde3b23356cea5c17d1b01a81ef526e0037ef)
 
+### Timeline
 
-
+|Date            |Type        |Status|ID  |Name                                                                                                   |
+|----------------|------------|------|----|-------------------------------------------------------------------------------------------------------|
+|**Phase-1**        |            |      |    |                                                                                                       |
+|31.05.2021      |PR       |Merged|[#278](https://github.com/OWASP/SecureTea-Project/pull/278) |Bug Fixes and SSRF Module                                                                                |
+|18.06.2021      |PR       |Merged|[#281](https://github.com/OWASP/SecureTea-Project/pull/281) |WAF Server/ Listener                                                                                 |
+|06.07.2021      |PR       |Merged|[#287](https://github.com/OWASP/SecureTea-Project/pull/287) |Feature Extractor                                                                                |
+|**Phase-2**        |            |      |    |                                                                                                       |
+|24.07.2021      |PR       |Merged|[#290](https://github.com/OWASP/SecureTea-Project/pull/290) |Model Improvemetn and  Integration                                                                              |
+|29.07.2021      |PR       |Merged|[#293](https://github.com/OWASP/SecureTea-Project/pull/293) |WAF to Server Mode                                                                                 |
+|05.08.2021      |PR       |Merged|[#297](https://github.com/OWASP/SecureTea-Project/pull/297) |Server Improvement and New Tainned Model                                                                                |
+|13.08.2021     |PR       |Merged|[#305](https://github.com/OWASP/SecureTea-Project/pull/305) |WAF integration with Nginx                                                                                 |
+|15.08.2021     |PR       |Merged|[#308](https://github.com/OWASP/SecureTea-Project/pull/308) |WAF Log Gennerator                                                                                  |
 
 
