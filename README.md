@@ -89,32 +89,35 @@ The Entire Flow of Request
    
      
 - [WAF Server/Listener ](https://github.com/OWASP/SecureTea-Project/pull/278):
-    -[Implemented WAF server for listening to incoming traffic](https://github.com/OWASP/SecureTea-Project/pull/281/commits/f10e333e99abca3a65e81176a1c33f6c940b9961)
-    -[Code Refactor](https://github.com/OWASP/SecureTea-Project/pull/281/commits/439b551e0c160c94abbbf32e4cfebc7611f3ffb8)
-    -
+    - [Implemented WAF server for listening to incoming traffic](https://github.com/OWASP/SecureTea-Project/pull/281/commits/f10e333e99abca3a65e81176a1c33f6c940b9961)
+    - [Code Refactor](https://github.com/OWASP/SecureTea-Project/pull/281/commits/439b551e0c160c94abbbf32e4cfebc7611f3ffb8)
+    
 - [WAF Server and Feature Extractor](https://github.com/OWASP/SecureTea-Project/pull/287)
-    -[Added Feature Extraction for Incoming Request](https://github.com/OWASP/SecureTea-Project/pull/287/commits/669f66874da1342e7dcec3d09d312230056d3908)
-    -[Improved Server](https://github.com/OWASP/SecureTea-Project/pull/287/commits/bd978f5490a5d3dbef0b80058f484812b2341df6)
-    -Code Refractror] (https://github.com/OWASP/SecureTea-Project/pull/287/commits/a79c3f5a79e0958012e31d4a7818452d65c1007c)
-    -[Working WAF Implemented](https://github.com/OWASP/SecureTea-Project/pull/287/commits/5a26fb52e53f35a914f126d7d29823f2cb5ee680)
+    - [Added Feature Extraction for Incoming Request](https://github.com/OWASP/SecureTea-Project/pull/287/commits/669f66874da1342e7dcec3d09d312230056d3908)
+    - [Improved Server](https://github.com/OWASP/SecureTea-Project/pull/287/commits/bd978f5490a5d3dbef0b80058f484812b2341df6)
+    - [Code Refractror](https://github.com/OWASP/SecureTea-Project/pull/287/commits/a79c3f5a79e0958012e31d4a7818452d65c1007c)
+    - [Working WAF Implemented](https://github.com/OWASP/SecureTea-Project/pull/287/commits/5a26fb52e53f35a914f126d7d29823f2cb5ee680)
     - WAF was implemented that was able to classify incoming web traffic to be bad or good.
     - Classifier was implemented.
     
     
 - [Model Improvement of WAF](https://github.com/OWASP/SecureTea-Project/pull/290)
-    Very important pull request as it had the first improved model , integrations to secureTea , bug fixes etc.
-    -[Adding N-gram based tokenizer for the ML Model](https://github.com/OWASP/SecureTea-Project/pull/290/commits/b5c9debc214e74331c4e5e77bf94305b900e14e3)
-    -Trainned model on a new dataset
-    -[integrated the WAF with the SecureTea CLI ](https://github.com/OWASP/SecureTea-Project/pull/290/commits/5eb4ef9781dc2b2aa8ece71904fa376b674dfbcb)
-    -[Added Logging and Error Fix](https://github.com/OWASP/SecureTea-Project/pull/290/commits/7195ff3f9793e1c029a23fef069873bf8bd06b1f)
-    -[WAF firewall was integrated to function with the Server Mode](https://github.com/OWASP/SecureTea-Project/pull/290/commits/5423e1f8c8bfbf75b3619b8f1d9f5751baa830db)
+   <br>
+   Very important pull request as it had the first improved model , integrations to secureTea , bug fixes etc.
+    - [Adding N-gram based tokenizer for the ML Model](https://github.com/OWASP/SecureTea-Project/pull/290/commits/b5c9debc214e74331c4e5e77bf94305b900e14e3)
+    - Trainned model on a new dataset
+    - [integrated the WAF with the SecureTea CLI ](https://github.com/OWASP/SecureTea-Project/pull/290/commits/5eb4ef9781dc2b2aa8ece71904fa376b674dfbcb)
+    - [Added Logging and Error Fix](https://github.com/OWASP/SecureTea-Project/pull/290/commits/7195ff3f9793e1c029a23fef069873bf8bd06b1f)
+    - [WAF firewall was integrated to function with the Server Mode](https://github.com/OWASP/SecureTea-Project/pull/290/commits/5423e1f8c8bfbf75b3619b8f1d9f5751baa830db)
     
 - [Sever Mode error Fix and Added WAF to server mode](https://github.com/OWASP/SecureTea-Project/pull/293)
-     Minor Error Fixes in Server Mode where tackled in this pull request 
-     -[Errors](https://github.com/OWASP/SecureTea-Project/pull/293/commits/366b245ab9bb6114d7bb1130520dd7ccc36b2290)
+    <br>
+    Minor Error Fixes in Server Mode where tackled in this pull request 
+     - [Errors](https://github.com/OWASP/SecureTea-Project/pull/293/commits/366b245ab9bb6114d7bb1130520dd7ccc36b2290)
 - [Server Improvement and New WAF Model ](https://github.com/OWASP/SecureTea-Project/pull/297)
+     <br>
      The asyncio server had some issuses with performance , in order to tackle that introduced uvloop policy. Gathered a New Set of Data to trian the WAF model. 
-     -[Improved WAF Server and Added New Model](https://github.com/OWASP/SecureTea-Project/pull/297/commits/ebd9e7239d12c641649c03654ba11549d7d950ff)
+     - [Improved WAF Server and Added New Model](https://github.com/OWASP/SecureTea-Project/pull/297/commits/ebd9e7239d12c641649c03654ba11549d7d950ff)
 - [Modifying WAF to Work with Nginix ](https://github.com/OWASP/SecureTea-Project/pull/305)
 - [Added WAF Logger ](https://github.com/OWASP/SecureTea-Project/pull/308)
 
