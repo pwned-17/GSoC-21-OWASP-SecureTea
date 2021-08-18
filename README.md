@@ -120,16 +120,14 @@ The Entire Flow of Request <br>
      - [Improved WAF Server and Added New Model](https://github.com/OWASP/SecureTea-Project/pull/297/commits/ebd9e7239d12c641649c03654ba11549d7d950ff)
 
 - [Modifying WAF to Work with Nginix ](https://github.com/OWASP/SecureTea-Project/pull/305)
-<br> 
+     <br> 
      At this stage the WAF Was implemented and was able to classify most of the attack vectors. The WAF now has to work along with Nginxi to filter traffic that has to be sent      to the WAF . In this PR i have modifyed the WAF to Work along Niginx Server.
      - [Modified WAF Server to work With Niginx ](https://github.com/OWASP/SecureTea-Project/pull/305/commits/fad0ce914a56bcc5e6bcebc13479532f1d01df7a)
      - [Documentaion of the Added Features ](https://github.com/OWASP/SecureTea-Project/pull/305/commits/73305d75da1983ffd568743f5556cb9567315211)
      
 - [Added WAF Logger ](https://github.com/OWASP/SecureTea-Project/pull/308)
-      <br>
-       Added Logging features to WAF 
-      -[Adding Log Generator for WAF](https://github.com/OWASP/SecureTea-Project/pull/308/commits/513fde3b23356cea5c17d1b01a81ef526e0037ef)
-
+       <br>
+     - [Adding Log Generator for WAF](https://github.com/OWASP/SecureTea-Project/pull/308/commits/513fde3b23356cea5c17d1b01a81ef526e0037ef)
 
 
 
