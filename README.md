@@ -149,8 +149,13 @@ The Entire Flow of Request <br>
 ## Screenshots screenscasts and tutorial videos
 
 **WAF CLI and GUI**
-![WAF-CLI](/img/waf-cli.gif)
-![WAF-GUI](/img/waf-gui.gif)
+<br>
+Starting WAF-CLI  ![WAF-CLI](/img/waf-cli.gif)
+Starting WAF Gui  ![WAF-GUI](/img/waf-gui.gif)
 
 **WAF in Action**
+<br>
+***Log Mode***  
 ![Working-WAF](/img/waf-working.gif)
+***Block Mode*** 
+![Waf-Block Mode](/img/waf-blockmode.gif)
