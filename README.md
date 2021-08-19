@@ -127,7 +127,12 @@ The Entire Flow of Request <br>
      
 - [Added WAF Logger ](https://github.com/OWASP/SecureTea-Project/pull/308)
        <br>
-     - [Adding Log Generator for WAF](https://github.com/OWASP/SecureTea-Project/pull/308/commits/513fde3b23356cea5c17d1b01a81ef526e0037ef)
+    - [Adding Log Generator for WAF](https://github.com/OWASP/SecureTea-Project/pull/308/commits/513fde3b23356cea5c17d1b01a81ef526e0037ef)
+ 
+- [Update Documentation](https://github.com/OWASP/SecureTea-Project/pull/313)
+     - Documented How to setup the Web Application firewall 
+     - Provided GIfs and config details
+  
 
 ### Timeline
 
@@ -143,7 +148,8 @@ The Entire Flow of Request <br>
 |05.08.2021      |PR       |Merged|[#297](https://github.com/OWASP/SecureTea-Project/pull/297) |Server Improvement and New Tainned Model                                                                                |
 |13.08.2021     |PR       |Merged|[#305](https://github.com/OWASP/SecureTea-Project/pull/305) |WAF integration with Nginx                                                                                 |
 |15.08.2021     |PR       |Merged|[#308](https://github.com/OWASP/SecureTea-Project/pull/308) |WAF Log Gennerator                                                                                  |
-
+|17.08.2021     |PR       |Merged|[#313](https://github.com/OWASP/SecureTea-Project/pull/313) |WAF Dcoumentation                                                                              |
+|18.08.2021     |PR       |Merged|[#319](https://github.com/OWASP/SecureTea-Project/pull/319) |WAF Dcoumentation         
 
 
 ## Screenshots screenscasts and tutorial videos
