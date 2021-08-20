@@ -149,7 +149,14 @@ The Entire Flow of Request <br>
 |13.08.2021     |PR       |Merged|[#305](https://github.com/OWASP/SecureTea-Project/pull/305) |WAF integration with Nginx                                                                                 |
 |15.08.2021     |PR       |Merged|[#308](https://github.com/OWASP/SecureTea-Project/pull/308) |WAF Log Gennerator                                                                                  |
 |17.08.2021     |PR       |Merged|[#313](https://github.com/OWASP/SecureTea-Project/pull/313) |WAF Dcoumentation                                                                              |
-|18.08.2021     |PR       |Merged|[#319](https://github.com/OWASP/SecureTea-Project/pull/319) |WAF Dcoumentation         
+|18.08.2021     |PR       |Merged|[#319](https://github.com/OWASP/SecureTea-Project/pull/319) |WAF Dcoumentation  
+
+### Contributions
+#### Contribution Graph 
+![Contribution-Graph](/img/contribution-graph.png)
+
+#### Contribution
+![Contribution](/img/contributions.png)
 
 
 ## Screenshots screenscasts and tutorial videos
