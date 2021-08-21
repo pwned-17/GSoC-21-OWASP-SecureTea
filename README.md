@@ -8,8 +8,12 @@
     - [Proposed summary](#proposed-summary)
     - [Work done](#work-done)
     - [Over Timeline](#timeline)
+    - [Contributions](#Contribution)
 
 - [Screenshots screenscasts and tutorial videos](#Screenshots-screenscasts-and-tutorial-videos)
+- [Future Work](#Future-Work)
+- [My experience](#My-experience)
+- [Conclusion](#conclusion)
 
 ## Overview
 
@@ -151,6 +155,8 @@ The Entire Flow of Request <br>
 |17.08.2021     |PR       |Merged|[#313](https://github.com/OWASP/SecureTea-Project/pull/313) |WAF Dcoumentation                                                                              |
 |18.08.2021     |PR       |Merged|[#319](https://github.com/OWASP/SecureTea-Project/pull/319) |WAF Dcoumentation  
 
+### Commits 
+Link to all my [commits](https://github.com/OWASP/SecureTea-Project/commits?author=pwned-17)
 ### Contributions
 #### Contribution Graph 
 ![Contribution-Graph](/img/contribution-graph.png)
@@ -173,7 +179,7 @@ Starting WAF Gui  ![WAF-GUI](/img/waf-gui.gif)
 ***Block Mode*** 
 ![Waf-Block Mode](/img/waf-blockmode.gif)
 
-### Futrue Work
+## Futrue Work
 
 - Performing Bug Fixes 
 - Intergrating WAF with Apache Server
@@ -183,7 +189,8 @@ Starting WAF Gui  ![WAF-GUI](/img/waf-gui.gif)
 #### Long Roadmap
 - Implementing Revise and update workflow 
    In this workflow the WAF should be capable of storing unseen data and then training itself when the data threshold has been reached .
-### My experience 
+
+## My experience 
 
 GSoc'21 has been one of those moments that I would remember for life. It has helped me in understanding the essence of Open Source and collaboration. 
 My 3 month journey of contributing to the OWASP SecureTea Project , has thought me a lot and helped me grow as a developer. The intial phase of the project was challlenging and kinda a confusing , I never really had a solid plan before implementing and always would encounter bottlenecks in the Half Way through. This mindset of mine went through a refinement during my GSoC journey. I learnt the importance of planning , importance of choosing a good architecture, the need for writing tests. There where various other things i would like to explain in a blog post seperately.
