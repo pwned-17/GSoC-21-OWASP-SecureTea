@@ -199,7 +199,7 @@ I would like to thank my mentors Rejah Rehim [(@rejahrehim)](https://github.com/
 
 ## Conclusion
 
-Mashallah!! My GSoC journey has come to an end , like the saying every end is a new beginning , I see this as a new beginning for something bigger!. This jounrey will continue as I will be contributing to Open Source and SecureTea project .
+So its time , my GSoC journey has come to an end , like the saying every end is a new beginning , I see this as a new beginning for something bigger!. This jounrey will continue as I will be contributing to Open Source and SecureTea project .
 
 
  
