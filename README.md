@@ -1,4 +1,4 @@
-# Google Summer of Code 2021 - OWASP-SecureTea Project (Final Submission)
+# Google Summer of Code 2021 - OWASP-SecureTea Project (Final Report)
 
 ## Table of Contents
 
