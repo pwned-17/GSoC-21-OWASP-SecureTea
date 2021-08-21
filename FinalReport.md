@@ -62,7 +62,7 @@ Currently the following features are supported:
 
 #### Propsed Summary as per Proposal 
 
-The primary goal of my idea is to implement a WAF which uses Machine Learning to detect anomalies in web traffic.
+The primary goal of is to implement a WAF which uses Machine Learning to detect anomalies in web traffic.
 
 ***The proposed idea***
 A Proxy server that helps to intercept the Request made by a web application. Then a set of features are extracted from the request and given to a model which uses a clustered dataset to predict whether the given features lie in the good or bad traffic.
