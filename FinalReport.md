@@ -195,7 +195,7 @@ Starting WAF Gui  ![WAF-GUI](/img/waf-gui.gif)
 GSoc'21 has been one of those moments that I would remember for life. It has helped me in understanding the essence of Open Source and collaboration. 
 My 3 month journey of contributing to the OWASP SecureTea Project , has thought me a lot and helped me grow as a developer. The intial phase of the project was challlenging and kinda a confusing , I never really had a solid plan before implementing and always would encounter bottlenecks in the Half Way through. This mindset of mine went through a refinement during my GSoC journey. I learnt the importance of planning , importance of choosing a good architecture, the need for writing tests. There where various other things i would like to explain in a blog post seperately.
 
-I would like to thank my mentors Rejah Rehim [(@rejahrehim)](https://github.com/rejahrehim) and  Ade Yoseman Putra[(@adeyosemanputra)](https://github.com/adeyosemanputra) for helping me through out the journey and provided constant motivation , that helped me to stay focused. Certain ideas and inputs given by them really helped me in porgressing my contirbution towards OWASP SecureTea . 
+I would like to thank my mentors Rejah Rehim [(@rejahrehim)](https://github.com/rejahrehim) and  Ade Yoseman Putra[(@adeyosemanputra)](https://github.com/adeyosemanputra) for helping me through out the journey and provided constant motivation , that helped me to stay focused. Certain ideas and inputs given by them really helped me in progressing my contirbution towards OWASP SecureTea . 
 
 ## Conclusion
 
