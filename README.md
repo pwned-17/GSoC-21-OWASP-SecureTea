@@ -179,7 +179,7 @@ Starting WAF Gui  ![WAF-GUI](/img/waf-gui.gif)
 ***Block Mode*** 
 ![Waf-Block Mode](/img/waf-blockmode.gif)
 
-## Futrue Work
+## Future Work
 
 - Performing Bug Fixes 
 - Intergrating WAF with Apache Server
